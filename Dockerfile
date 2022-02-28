@@ -1,4 +1,4 @@
-FROM cimg/android:2022.01
+FROM cimg/android:2021.12.2
 USER root
 
 ENV LANG "en_US.UTF-8"
